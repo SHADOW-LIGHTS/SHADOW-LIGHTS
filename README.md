@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SHADOW-LIGHTS
+- 👋 Hi, I’m @pruthvi
 - 👀 I’m interested in learning new everday
 - 🌱 I’m currently learning dsa
 - 💞️ I’m looking to meet new people online and learn
