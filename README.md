@@ -13,7 +13,7 @@
 - 🎨 MCIT Winter Hackathon Creativity Winner-->
 
 <a href="">
- <img src="https://github-readme-stats-l1afisvel-ruichen199801.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" />
+ <img src="https://github-readme-stats-l1afisvel-ruichen199801.vercel.app/api?username=pruthvi&show_icons=true" alt="Ruichen's GitHub Status" />
 </a>
 
 ### Languages & Technologies
