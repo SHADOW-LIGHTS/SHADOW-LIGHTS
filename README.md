@@ -1,4 +1,4 @@
-## Hi there, I am Ruichen 👋
+## Hi there, I am PRUTHVI 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoWidth=20&width=80)](https://www.linkedin.com/in/pruthvi-yb/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logoWidth=10&width=80)]()
