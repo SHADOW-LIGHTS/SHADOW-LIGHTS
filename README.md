@@ -24,7 +24,7 @@
 - 👀 I’m interested in learning new everday
 - 🌱 I’m currently learning dsa
 - 💞️ I’m looking to meet new people online and learn
-- 📫 Reach me on my mail id - pruthvibasappa@gmail.com
+- 📫 Reach me on my mail id - pruthviyb@gmail.com
 
 <!---
 SHADOW-LIGHTS/SHADOW-LIGHTS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
