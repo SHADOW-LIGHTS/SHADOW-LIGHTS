@@ -13,8 +13,10 @@
 - 🎨 MCIT Winter Hackathon Creativity Winner-->
 
 <a href="">
- <img src="https://github-readme-stats-l1afisvel-ruichen199801.vercel.app/api?username=pruthvi&show_icons=true" alt="Pruthvi's GitHub Status" />
+ <img src="https://github-readme-stats-l1afisvel-ruichen199801.vercel.app/api?username=pruthvi&show_icons=true" alt="PRUTHVI's GitHub Status" />
 </a>
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHADOW-LIGHTS)](https://github.com/SHADOW-LIGHTS/github-readme-stats)-->
 
 ### Languages & Technologies
 
