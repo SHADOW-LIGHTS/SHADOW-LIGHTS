@@ -3,15 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoWidth=20&width=80)](https://www.linkedin.com/in/pruthvi-yb/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logoWidth=10&width=80)]()
 
-<!--[![Featured Project](https://img.shields.io/badge/Featured%20Project-orange?style=for-the-badge&logoWidth=40&width=80)](https://forxnews.herokuapp.com/)-->
-
-<!--- 🎓 MCIT '23 @ Penn
-- ☕️ SDE Intern @ Amazon, 4Paradigm
-- 🔍 RA @ Shen Lab, CSSLab
-- 🥇 1st Place @ Fulton Bank Datathon
-- 🚀 Top 5 Finalist @ Wharton Case Competition
-- 🎨 MCIT Winter Hackathon Creativity Winner-->
-
 <a href="">
  <img src="https://github-readme-stats-l1afisvel-ruichen199801.vercel.app/api?username=pruthvi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="PRUTHVI's GitHub Status" />
 </a>
