@@ -7,7 +7,7 @@
  <img src="https://github-readme-stats-l1afisvel-ruichen199801.vercel.app/api?username=pruthvi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="PRUTHVI's GitHub Status" />
 </a>-->
 
-[![Pruthvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHADOW-LIGHTS&show_icons=true&theme=buefy&hide_border=true)](https://github.com/SHADOW-LIGHTS/github-readme-stats)
+[![Pruthvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pruthvi&show_icons=true&theme=buefy&hide_border=true)](https://github.com/SHADOW-LIGHTS/github-readme-stats)
 
 ### Languages & Technologies
 
